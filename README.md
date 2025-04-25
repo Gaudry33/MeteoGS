@@ -4,18 +4,18 @@
 
 ## Collecte de données météorologiques 
 
-Ce projet consiste à mettre en place une **infrastructure réseau complète**, un **serveur web**, un **site internet** et une **base de données** pour la collecte et la visualisation de données météorologiques **en temps réel**, au service de la **Mairie de Bordeaux**.
+Ce projet consiste à mettre en place une **infrastructure réseau complète** avec un réseau **LAN** et **DMZ** ,un **routeur**, un **serveur web**, un serveur **DD**, un **Client**,un **site internet** et une **base de données** pour la collecte et la visualisation de données météorologiques **en temps réel**, au service de la **Mairie de Bordeaux**.
 
 ## Contexte du projet
 
 Ce projet a été réalisé dans le cadre d’une étude d’infrastructure numérique, avec les objectifs suivants :
 
-* Déployer un réseau de sondes météo (Andernos-les-Bains)
 * Mettre en place un **serveur LAMP** sécurisé dans une **DMZ**
 * Mettre en place un **Routeur** 
 * Créer un **site web de visualisation des données**
-* Assurer la communication via un serveur **DHCP/DNS**
-* Transmettre les données météo à la **Mairie de Bordeaux** en temps réel
+* Créer une base de données pour recolter les données météorologiques à chaque rafraichissement du site internet.
+* Assurer la communication via un serveur **DHCP/DNS** sécurisé dans un **LAN**
+* Transmettre les données météo à la **Mairie de Bordeaux** (Client) en temps réel
 
 ## Composants Clés
 
@@ -26,7 +26,7 @@ Ce projet a été réalisé dans le cadre d’une étude d’infrastructure num�
 
 ## Site web & base de données
 
-* Site responsive développé en HTML/CSS/JavaScript
+* Site web développé en HTML/CSS/JavaScript
 * Données stockées en base **MariaDB**
 * Affichage en temps réel via requêtes API (OpenWeather)
 * Créer un **site web de visualisation des données**

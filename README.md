@@ -2,7 +2,7 @@
   <img src="assets/PreviewMeteo.gif" alt="Schéma de l'infrastructure" width="700">
 </p>
 
-## Collecte de données météorologiques – Mairie de Bordeaux
+## Collecte de données météorologiques 
 
 Ce projet consiste à mettre en place une **infrastructure réseau complète**, un **serveur web**, un **site internet** et une **base de données** pour la collecte et la visualisation de données météorologiques **en temps réel**, au service de la **Mairie de Bordeaux**.
 

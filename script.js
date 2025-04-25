@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = "19828690691924002934ae4cb9fbd9e5";
+    const apiKey = "";
     const city = "Andernos-les-Bains";
 
     const cityElem = document.querySelector('.weather-data__city');

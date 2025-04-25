@@ -4,7 +4,7 @@
 
 ## Collecte de données météorologiques 
 
-Ce projet consiste à mettre en place une **infrastructure réseau complète** avec un réseau **LAN** et **DMZ** ,un **routeur**, un **serveur web**, un serveur **DD**, un **Client**,un **site internet** et une **base de données** pour la collecte et la visualisation de données météorologiques **en temps réel**, au service de la **Mairie de Bordeaux**.
+Ce projet consiste à mettre en place une **infrastructure réseau complète** avec un réseau **LAN** et **DMZ** ,un **routeur**, un **serveur web**, un serveur **DD**, un **Client**,un **site internet** et une **base de données** pour la collecte et la visualisation de données météorologiques **en temps réel**, au service de la **Mairie de Bordeaux**. [C'EST UN PROJET FICTIF]
 
 ## Contexte du projet
 

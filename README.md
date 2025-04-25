@@ -2,7 +2,6 @@
 
 Ce projet consiste à mettre en place une **infrastructure réseau complète**, un **serveur web**, un **site internet** et une **base de données** pour la collecte et la visualisation de données météorologiques **en temps réel**, au service de la **Mairie de Bordeaux**.
 
----
 
 ## 🧩 Contexte du projet
 
@@ -15,12 +14,8 @@ Ce projet a été réalisé dans le cadre d’une étude d’infrastructure num�
 - Assurer la communication via un serveur **DHCP/DNS**
 - Transmettre les données météo à la **Mairie de Bordeaux** en temps réel
 
----
-
-## 🖥️ Architecture de l’infrastructure
-
 <p align="center">
-  <img src="assets/schema-infrastructure.png" alt="Schéma de l'infrastructure" width="700">
+  <img src="assets/PreviewMeteo.gif" alt="Schéma de l'infrastructure" width="700">
 </p>
 
 **Composants clés :**

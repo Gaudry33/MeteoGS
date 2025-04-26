@@ -27,7 +27,7 @@ connection.connect(err => {
 
 
 app.get('/', (req, res) => {
-    res.send('Bienvenue sur le serveur de météo !');
+    res.send('Bienvenue sur le serveur de MeteoGS');
 });
 
 app.post('/insert-weather', (req, res) => {

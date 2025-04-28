@@ -8,7 +8,11 @@ Ce projet consiste à mettre en place une **infrastructure réseau complète** a
 
 ## Contexte du projet
 
-Ce projet a été réalisé dans le cadre d’une étude d’infrastructure numérique, avec les objectifs suivants :
+La ville d'Andernos-les-Bains, située dans le bassin d'Arcachon, fait face régulièrement à diverses intempéries météorologiques (tempêtes, fortes pluies, vents violents, etc.).
+Actuellement, les informations météo disponibles via les journaux télévisés ne sont pas assez fréquentes pour permettre une réaction rapide des services de secours. Trop souvent, les informations climatiques parviennent aux services compétents de Bordeaux Métropole après que les dégâts aient déjà été causés.
+
+Face à cette problématique, la mairie de Bordeaux souhaite se doter d'une solution technologique permettant de recevoir en temps réel les données climatiques locales.
+Un appel d'offres a été lancé pour concevoir et développer un système de suivi météorologique performant et instantané, avec les objectifs suivants :
 
 * Mettre en place un **serveur LAMP** sécurisé dans une **DMZ**
 * Mettre en place un **Routeur** 

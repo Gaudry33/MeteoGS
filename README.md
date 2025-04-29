@@ -58,6 +58,3 @@ Un appel d'offres a été lancé pour concevoir et développer un système de su
 
 ---
 
-> GitHub (https://github.com/Gaudry33)
-> Portfolio (https://v0-portfolio-gaudry.vercel.app/)
-
